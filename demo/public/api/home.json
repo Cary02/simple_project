@@ -1,0 +1,56 @@
+{
+	"success": true,
+	"data": {
+		"playerList": [{
+			"id": 1,
+			"title": "欧文",
+			"imgUrl": "http://img0.imgtn.bdimg.com/it/u=821062018,2599611122&fm=26&gp=0.jpg"
+		}, {
+			"id": 2,
+			"title": "科比",
+			"imgUrl": "http://img3.imgtn.bdimg.com/it/u=270432742,3934633685&fm=26&gp=0.jpg"
+		}, {
+			"id": 3,
+			"title": "詹姆斯",
+			"imgUrl": "http://img3.imgtn.bdimg.com/it/u=1772234836,2117511443&fm=26&gp=0.jpg"
+		}, {
+			"id": 4,
+			"title": "杜兰特",
+			"imgUrl": "http://img4.imgtn.bdimg.com/it/u=1915477531,2501466307&fm=26&gp=0.jpg"
+		}, {
+			"id": 5,
+			"title": "韦德",
+			"imgUrl": "http://img0.imgtn.bdimg.com/it/u=4165757151,3157260097&fm=26&gp=0.jpg"
+		}, {
+			"id": 6,
+			"title": "库里",
+			"imgUrl": "http://img3.imgtn.bdimg.com/it/u=539962840,1625062289&fm=26&gp=0.jpg"
+		}, {
+			"id": 7,
+			"title": "哈登",
+			"imgUrl": "http://img1.imgtn.bdimg.com/it/u=93997456,3611266167&fm=26&gp=0.jpg"
+		}
+		],
+		"articleList": [{
+			"id": 1,
+			"title": "考辛斯多次建议詹姆斯竞选总统 均遭老詹拒绝",
+			"desc": "北京时间2月21日，据湖人跟队记者米莉莎-罗琳报道，湖人当家超巨勒布朗-詹姆斯今天在训练结束后的采访中表态，自己以后不会去竞选总统。",
+			"imgUrl": "https://n.sinaimg.cn/sports/transform/216/w650h366/20200221/570a-ipvnsze2298357.jpg"
+		}, {
+			"id": 2,
+			"title": "50+8！特雷杨生涯新高超过奥尼尔,历史第一！",
+			"desc": "北京时间2月21日，老鹰在主场以129-124战胜热火。老鹰当家控卫特雷-杨得到职业生涯最高的50分，外加8次助攻。　　今年，二年级生特雷-杨首次入选NBA全明星赛，而且担任首发。今天是全明星周末结束之后的首个比赛日，特雷-杨在主场彻底爆发。",
+			"imgUrl": "https://n.sinaimg.cn/sports/transform/500/w650h650/20200221/c563-ipvnsze3045123.jpg"
+		}, {
+			"id": 3,
+			"title": "NBA又一人赛季报销！下赛季见了，金州勇士！",
+			"desc": "之前勇士队给出的消息是汤普森会在全明星前后回归，果不其然，全明星过去后，勇士队也为大家更新了汤普森复出的最新动态——赛季报销。",
+			"imgUrl": "https://n.sinaimg.cn/sports/crawl/303/w550h553/20200221/3211-ipvnsze3401024.jpg"
+		}, {
+			"id": 4,
+			"title": "巴克利又发话：掘金很棒！但无法击败湖人快船",
+			"desc": "近日，体育分析员Joe Osborne晒出了全明星后各队赛程的强度表（百分比越大，难度越大）。其中，鹈鹕的赛程被视为最简单，他们目前战绩为23胜32负暂列西部第11，距离第八的灰熊还有5.5个胜场。值得一提的是，灰熊的赛程强度则是被看作联盟最难，强度比达到了55.4%！",
+			"imgUrl": "https://n.sinaimg.cn/sports/crawl/116/w550h366/20200221/4bda-ipvnsze3408666.jpg"
+		}]
+	}
+}
